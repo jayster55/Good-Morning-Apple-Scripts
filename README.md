@@ -2,6 +2,8 @@
 
 The best way to implement these scripts is through Automator, where you would add a 'run Applescript' section, inside which you would que all the scripts you would like to be run. Export the automator as a Calendar event, and change when the automator script ques from the event created in teh Calendar (change it to the time you usually week up, obviously up to you to customize if you wake up at a different time on weekends vs weekdays, day by day wakeup times, etc)
 
+The automator runscript is entitled 'automatorRunScripts.scpt', which you would copy-paste into the Automator Applescript Node.
+
 
 ## spotifyWakeUp
 
